@@ -8,3 +8,4 @@
 - [The MealDB API](https://www.themealdb.com/)
 - [Frankfurter](https://www.frankfurter.app/)
 - [The MovieDB API](https://www.themoviedb.org/documentation/api)
+- [Pokemon API](https://pokeapi.co/)
