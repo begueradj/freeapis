@@ -1,5 +1,6 @@
 ## List of free APIs
 
+- [The Star Wars API](https://swapi.dev/)
 - [Responsive Voice API](https://responsivevoice.org/api/)
 - [FreeToGame Api](https://www.freetogame.com/api-doc)
 - [Count API](https://countapi.xyz/)
