@@ -10,3 +10,5 @@
 - [The MovieDB API](https://www.themoviedb.org/documentation/api)
 - [Pokemon API](https://pokeapi.co/)
 - [API Football](https://www.api-football.com/)
+
+- [Long list](https://github.com/public-api-lists/public-api-lists)
